@@ -1,0 +1,42 @@
+attribute_id,attribute_label,type,description
+AID_0001,name,string,人物的显示名称 / Display name of the person.
+AID_0002,givenName,string,人物姓名中的名 / Given name of the person.
+AID_0003,familyName,string,人物姓名中的姓 / Family name of the person.
+AID_0004,sexOrGender,enumeration,人物的性别或社会性别 / Sex or gender of the person.
+AID_0005,countryOrRegionOfCitizenship,enumeration,人物具有公民身份的国家或地区 / Country or region of citizenship.
+AID_0006,languagesSpokenWrittenOrSigned,enumeration,"人物能够使用的口语、书面语或手语 / Language spoken, written, or signed by the person."
+AID_0007,religionOrWorldview,enumeration,人物认同的宗教或世界观 / Religion or worldview of the person.
+AID_0008,ancestralHome,string,人物家族的祖籍地点 / Ancestral home of the person.
+AID_0009,dateOfBirth,time,人物的出生日期 / Date of birth of the person.
+AID_0010,placeOfBirth,string,人物的出生地点 / Place of birth of the person.
+AID_0011,dateOfDeath,time,人物的去世日期 / Date of death of the person.
+AID_0012,placeOfDeath,string,人物的去世地点 / Place of death of the person.
+AID_0013,placeOfBurial,string,人物的安葬地点 / Place where the person is buried.
+AID_0014,residence,string,人物曾经居住的地点 / Place where the person resides or resided.
+AID_0015,workLocation,string,人物开展工作的地点 / Location where the person works or worked.
+AID_0016,placeOfDetention,string,人物曾被羁押或拘禁的地点 / Place where the person was detained.
+AID_0017,significantEvent,string,与人物生平密切相关的重要事件 / Significant event in the person's life.
+AID_0018,occupation,string,人物从事的职业 / Occupation of the person.
+AID_0019,educatedAt,string,人物曾就读或接受教育的机构 / Institution where the person was educated.
+AID_0020,academicDegree,string,人物取得的学位 / Academic degree held by the person.
+AID_0021,fieldOfWork,string,人物主要从事的专业领域 / Field in which the person works.
+AID_0022,positionHeld,enumeration,人物曾担任的职位或公职 / Position or public office held by the person.
+AID_0023,militaryOrPoliceRank,string,人物拥有的军衔或警衔 / Military or police rank held by the person.
+AID_0024,rank,string,来源记录的人物等级或排名 / Rank recorded for the person.
+AID_0025,memberOf,string,人物所属的组织或团体 / Organization or group of which the person is a member.
+AID_0026,memberOfPoliticalParty,string,人物所属的政党 / Political party of which the person is a member.
+AID_0027,participantIn,string,人物参加的事件、赛事或活动 / Event or activity in which the person participated.
+AID_0028,candidacyInElection,string,人物作为候选人参加的选举 / Election in which the person was a candidate.
+AID_0029,participatedInConflict,string,人物参加的战争或武装冲突 / Conflict in which the person participated.
+AID_0030,awardReceived,string,人物获得的奖项或荣誉 / Award or honor received by the person.
+AID_0031,sport,enumeration,人物参与的运动项目 / Sport practiced by the person.
+AID_0032,memberOfSportsTeam,string,人物效力或隶属的运动队 / Sports team of which the person is or was a member.
+AID_0033,positionPlayedOnTeamOrSpeciality,enumeration,运动人物的场上位置或专项 / Playing position or sporting specialty of the person.
+AID_0034,countryForSport,enumeration,人物在体育活动中代表的国家 / Country represented by the person in sport.
+AID_0035,leagueOrCompetition,string,人物参加的联赛或赛事 / League or competition in which the person participates.
+AID_0036,genre,enumeration,人物作品所属的创作类型 / Genre associated with the person's work.
+AID_0037,instrument,enumeration,人物演奏的乐器 / Musical instrument played by the person.
+AID_0038,hasWorksInTheCollection,string,收藏该人物作品的机构或馆藏 / Collection or institution holding works by the person.
+AID_0039,officialWebsite,website,人物的官方网站 / Official website of the person.
+AID_0040,height,height,人物的身高 / Height of the person.
+AID_0041,mass,weight,人物的体重 / Body mass of the person.

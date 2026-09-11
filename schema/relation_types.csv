@@ -1,0 +1,56 @@
+relation_id,relation_label,type,description
+RID_0001,parent,human,客体人物是主体人物的父母 / The object person is a parent of the subject person.
+RID_0002,father,human,客体人物是主体人物的父亲 / The object person is the father of the subject person.
+RID_0003,mother,human,客体人物是主体人物的母亲 / The object person is the mother of the subject person.
+RID_0004,spouse,human,主体人物与客体人物为配偶 / The subject and object persons are spouses.
+RID_0006,wife,human,客体人物是主体人物的妻子 / The object person is the wife of the subject person.
+RID_0007,sibling,human,主体人物与客体人物为兄弟姐妹 / The subject and object persons are siblings.
+RID_0009,child,human,客体人物是主体人物的子女 / The object person is a child of the subject person.
+RID_0011,relative,human,主体人物与客体人物存在亲属关系 / The subject and object persons are relatives.
+RID_0012,unmarriedPartner,human,主体人物与客体人物是未婚伴侣 / The subject and object persons are unmarried partners.
+RID_0013,stepparent,human,客体人物是主体人物的继父或继母 / The object person is a stepparent of the subject person.
+RID_0014,godparent,human,客体人物是主体人物的教父或教母 / The object person is a godparent of the subject person.
+RID_0015,family,human,客体表示主体人物所属或相关的家族 / The object denotes a family associated with the subject person.
+RID_0017,supervisedBy,human,客体人物曾监督主体人物 / The subject person was supervised by the object person.
+RID_0018,trainedBy,human,客体人物曾训练或执教主体人物 / The subject person was trained or coached by the object person.
+RID_0019,studentOf,human,主体人物是客体人物的学生 / The subject person studied under the object person.
+RID_0020,doctoralAdvisor,human,客体人物是主体人物的博士导师 / The object person is the doctoral advisor of the subject person.
+RID_0021,student,human,客体人物是主体人物的学生 / The object person is a student of the subject person.
+RID_0022,doctoralStudent,human,客体人物是主体人物的博士生 / The object person is a doctoral student of the subject person.
+RID_0023,notableStudent,human,客体人物是主体人物的知名学生 / The object person is a notable student of the subject person.
+RID_0024,employer,human,客体是主体人物的雇主 / The object is an employer of the subject person.
+RID_0025,clerkedFor,human,主体人物曾为客体人物担任司法助理 / The subject person clerked for the object person.
+RID_0026,directorOrManager,human,客体人物曾担任主体人物的主管、经理或经纪人 / The object person directed or managed the subject person.
+RID_0027,headCoach,human,客体人物是主体人物的主教练 / The object person is the head coach of the subject person.
+RID_0028,commandedBy,human,客体人物曾指挥主体人物 / The subject person was commanded by the object person.
+RID_0029,represents,human,主体人物在来源语境中代表客体人物 / The subject person represents the object person.
+RID_0031,copyrightRepresentative,human,客体人物是主体人物的版权代理人 / The object person represents the subject person in copyright matters.
+RID_0032,appointer,human,客体人物任命了主体人物 / The object person appointed the subject person.
+RID_0033,influences,human,主体人物影响了客体人物 / The subject person influenced the object person.
+RID_0034,significantPerson,human,客体人物是主体人物经历中的重要相关人物 / The object person is significant in the subject person's life or career.
+RID_0035,influencedBy,human,主体人物受到客体人物影响 / The subject person was influenced by the object person.
+RID_0037,followerOf,human,主体人物是客体人物的追随者 / The subject person is a follower of the object person.
+RID_0038,circleOf,human,主体人物属于客体人物的交往圈或学术圈 / The subject person belongs to the circle associated with the object person.
+RID_0039,connectsWith,human,主体人物与客体人物存在来源定义的一般连接 / The subject person has a source-defined connection with the object person.
+RID_0040,follows,human,主体人物在职位或次序上接续客体人物 / The subject person follows the object person in an ordered role or sequence.
+RID_0041,followedBy,human,主体人物之后由客体人物接续 / The subject person is followed by the object person.
+RID_0042,replaces,human,主体人物接替了客体人物 / The subject person replaced the object person.
+RID_0043,replacedBy,human,主体人物被客体人物接替 / The subject person was replaced by the object person.
+RID_0044,monarch,human,客体人物是与主体人物任职信息相关的君主 / The object person is the monarch associated with the subject person's office or tenure.
+RID_0045,governor,human,客体人物是与主体人物任职信息相关的州长或总督 / The object person is the governor associated with the subject person's office or tenure.
+RID_0046,primeMinister,human,客体人物是与主体人物任职信息相关的总理 / The object person is the prime minister associated with the subject person's office or tenure.
+RID_0047,president,human,客体人物是与主体人物任职信息相关的总统 / The object person is the president associated with the subject person's office or tenure.
+RID_0048,vicePresident,human,客体人物是与主体人物任职信息相关的副总统 / The object person is the vice president associated with the subject person's office or tenure.
+RID_0049,chancellor,human,客体人物是与主体人物任职信息相关的总理、校长或同名职务人物 / The object person is the chancellor associated with the subject person's office or tenure.
+RID_0050,lieutenant,human,客体人物是与主体人物相关的副职人物 / The object person is a lieutenant or deputy associated with the subject person.
+RID_0051,governorGeneral,human,客体人物是与主体人物任职信息相关的总督 / The object person is the governor-general associated with the subject person's office or tenure.
+RID_0052,deputy,human,客体人物是主体人物的副手或任职信息中的副职人物 / The object person is a deputy of the subject person.
+RID_0053,consecratedBy,human,客体人物主持了主体人物的祝圣 / The subject person was consecrated by the object person.
+RID_0054,beatifiedBy,human,客体人物为主体人物举行或批准宣福 / The subject person was beatified by the object person.
+RID_0055,canonizedBy,human,客体人物为主体人物举行或批准封圣 / The subject person was canonized by the object person.
+RID_0056,killedBy,human,客体人物杀害了主体人物 / The subject person was killed by the object person.
+RID_0057,defender,human,客体人物是主体人物的辩护人或法律代理人 / The object person is a defender or legal counsel of the subject person.
+RID_0058,patientOf,human,主体人物是客体人物的患者 / The subject person is a patient of the object person.
+RID_0059,enemy,human,主体人物与客体人物存在敌对关系 / The subject and object persons are enemies.
+RID_0060,opponent,human,主体人物与客体人物在来源语境中是对手 / The subject and object persons are opponents in the source context.
+RID_0061,partnerInBusinessOrSport,human,主体人物与客体人物是商业或体育搭档 / The subject and object persons are partners in business or sport.
