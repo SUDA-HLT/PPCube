@@ -59,7 +59,7 @@ PPCube-Dense 不包含尚未统一的 Others 数据，也不包含待确认或�
 - `statistics/relation_statistics.csv`：各来源中每种关系的记录数量。
 - `statistics/README.md`：统计文件的字段说明。
 
-公开数据统一使用 CSV。人物属性的 3 个分片具有相同表头，合并使用时只保留一次表头。各数据字段的具体含义见 `data/README.md`。
+各数据字段的具体含义见 `data/README.md`。
 
 ## 其他相关数据集
 
