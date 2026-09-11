@@ -23,7 +23,12 @@ PPCube-FULL 按数据来源分别保存。当前版本尚未将不同来源中�
 
 ## 人物属性类型与人际关系类型
 
-PPCube V2.0 当前包含 41 种人物属性类型和 55 种人际关系类型。人物属性数据使用 `AID_四位数字` 形式的属性 ID，人际关系数据使用 `RID_四位数字` 形式的关系 ID。每种属性和关系的 ID、英文名称、数据类型及含义分别记录在各版本目录下的 `schema/attribute_types.csv` 和 `schema/relation_types.csv` 中。
+| 版本 | 人物属性类型数量 | 人际关系类型数量 |
+| --- | ---: | ---: |
+| PPCube-FULL | 41 | 63 |
+| PPCube-Dense | 41 | 55 |
+
+人物属性数据使用 `AID_四位数字` 形式的属性 ID，人际关系数据使用 `RID_四位数字` 形式的关系 ID。每种属性和关系的 ID、英文名称、数据类型及含义分别记录在各版本目录下的 `schema/attribute_types.csv` 和 `schema/relation_types.csv` 中。
 
 ## PPCube-FULL 数据统计
 
